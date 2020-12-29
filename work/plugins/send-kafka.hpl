@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: send-kafka
+Long-Name: send-kafka
+Url: https://github.com/jenkinsci/send-kafka-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-12/28/2020 23:01-Bryan)
+Hudson-Version: 2.235.1
+Jenkins-Version: 2.235.1
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/send-kafka-plugin
+Libraries: C:\Users\Bryan\IdeaProjects\send-kafka\src\main\resources,C
+ :\Users\Bryan\IdeaProjects\send-kafka\target\classes,C:\Users\Bryan\.
+ m2\repository\com\github\luben\zstd-jni\1.4.4-7\zstd-jni-1.4.4-7.jar,
+ C:\Users\Bryan\.m2\repository\org\apache\kafka\kafka-clients\2.6.0\ka
+ fka-clients-2.6.0.jar,C:\Users\Bryan\.m2\repository\org\lz4\lz4-java\
+ 1.7.1\lz4-java-1.7.1.jar,C:\Users\Bryan\.m2\repository\org\xerial\sna
+ ppy\snappy-java\1.1.7.3\snappy-java-1.1.7.3.jar
+Resource-Path: C:\Users\Bryan\IdeaProjects\send-kafka\src\main\webapp
+

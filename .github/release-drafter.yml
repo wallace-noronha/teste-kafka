@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: send-kafka-$NEXT_MINOR_VERSION
